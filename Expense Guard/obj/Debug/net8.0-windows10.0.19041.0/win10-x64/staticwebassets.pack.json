@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Expense Guard\\Expense Guard\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\Expense Guard.styles.css",
+      "PackagePath": "staticwebassets\\Expense Guard.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Expense Guard\\Expense Guard\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Expense Guard\\Expense Guard\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Expense Guard\\Expense Guard\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Expense Guard\\Expense Guard\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\source\\repos\\Expense Guard\\Expense Guard\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.Expense Guard.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.build.Expense Guard.props",
+      "PackagePath": "build\\Expense Guard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildMultiTargeting.Expense Guard.props",
+      "PackagePath": "buildMultiTargeting\\Expense Guard.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildTransitive.Expense Guard.props",
+      "PackagePath": "buildTransitive\\Expense Guard.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
